@@ -2,5 +2,6 @@
 Demo application for grails 3 shiro plugin
 - Usage of shiro with grails spring security plugin
 - Usage of different security tag
-- Usage of grails custom Interceptor for security access
-- Usage of custom shiro TagLib
+- Secure access to grails Service
+- Usage of grails custom Interceptor with redirection and flash message
+- Create and use custom shiro TagLib
